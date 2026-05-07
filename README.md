@@ -34,7 +34,6 @@ The platform is built using **Ionic + React + TypeScript**, backed by **Firebase
 |---|---|
 | AI Scam Chat Simulation | Interact with simulated scammers powered by AI to learn how to identify and respond to threats |
 | QR Fraud Detection | Scan and analyze QR codes to detect malicious or fraudulent links |
-| Deepfake Recognition Lab | Learn to spot AI-generated deepfake content |
 | Community Siren | Report and view community-submitted scam alerts in real time |
 | Learn Module | Structured lessons on cybersecurity topics relevant to Indian users |
 | Quiz Module | Test your knowledge with interactive quizzes |
@@ -149,7 +148,7 @@ Digital-Aadhaar/
 ## Future Scope
 
 - **Voice Scam Detection** – Identify scam patterns in audio/phone calls
-- **Advanced Deepfake Detection** – ML-powered video analysis
+- **Deepfake Detection** – ML-powered video analysis
 - **Government Platform Integration** – Direct links to DigiLocker, UMANG, and other official portals
 - **Nationwide Scam Alert Network** – Federated, region-specific scam alert broadcasting
 - **Expanded Language Support** – More regional Indian languages
